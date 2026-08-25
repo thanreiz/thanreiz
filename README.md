@@ -166,7 +166,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=thanreiz&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=3B82F6&currStreakLabel=22D3EE" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=thanreiz&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=3B82F6&currStreakLabel=22D3EE&card_width=495&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 
 <br/>
 
