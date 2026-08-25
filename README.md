@@ -18,7 +18,7 @@
 <p>
   <a href="https://www.linkedin.com/in/thanreiz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ethandreiz14@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="Projects" /></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="Projects" /></a>
 </p>
 
 </div>
@@ -31,7 +31,7 @@
 - 🔭  **UI/UX Developer Intern @ Omni-Channel Solutions** — auditing AI-powered tools against a 485-metric visibility framework and shipping React + Tailwind component improvements on a weekly delivery cycle
 - 💼  **CTO @ START-DOST** · **Innovation Fellow (Strategy & Management) @ Eskwelabs** — building SOPs, playbooks, and AI-enabled workflows
 - 🌐  **Communities** — External Relations Lead @ GDGoC PLM · Program Committee @ AWS UG e:Novators PH · Student Leader @ Data Engineering Pilipinas (supporting 5,000+ DataCamp Scholars)
-- 🏆  **Grand Champion** — GDGoC PLM Innolympics 2026 · FEU Tech ACM TechSprint 2026
+- 🏆  **Grand Champion** — GDGoC PLM Innolympics 2026 · FEU Tech ACM TechSprint 2026 · **2nd Place APAC** — Stellar APAC Hackathon
 - 🎓  **DOST RA 7687 Scholar** · Yoshii Family Inc. Scholar · DataCamp Scholar · Dean's Lister
 - 💬  Ask me about **Full-Stack · Kotlin / Jetpack Compose · Stellar / Soroban · AI workflows · offline-first apps**
 - ⚡  Motto: *Explora. Experire. Fruere.*
@@ -53,6 +53,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -70,42 +71,42 @@
 <table width="100%">
   <tr>
     <td align="center" width="50%">
+      <a href="https://github.com/thanreiz/crosscampus">
+        <img src="https://opengraph.githubassets.com/readme/thanreiz/crosscampus" width="100%" alt="Gabay" />
+      </a>
+      <br><b><a href="https://github.com/thanreiz/crosscampus">Gabay</a></b>
+      <br><sub>Offline-first AI math companion for Filipino Grade 4–6 learners — React 19 PWA, Three.js 3D classroom, Gemini + on-device Gemini Nano tutor, 155 DepEd MATATAG competencies cached in IndexedDB.</sub>
+      <br><sub>🏆 Grand Champion — FEU Tech ACM TechSprint 2026</sub>
+      <br><sub><a href="https://gabay-sage.vercel.app">Live ↗</a> · <a href="https://github.com/thanreiz/crosscampus">Code ↗</a></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/thanreiz/Celerity">
+        <img src="https://opengraph.githubassets.com/readme/thanreiz/Celerity" width="100%" alt="Celerity" />
+      </a>
+      <br><b><a href="https://github.com/thanreiz/Celerity">Celerity</a></b>
+      <br><sub>Programmable disaster-disbursement rail on Stellar — Rust/Soroban escrow, 2-of-3 Ed25519 weather oracle, automatic payouts to registered farmers, SEP-31 anchor cash-out to PHP.</sub>
+      <br><sub>🥈 2nd Place APAC · Top 10 Finalist — Stellar APAC</sub>
+      <br><sub><a href="https://stellar-celerity.me">Live ↗</a> · <a href="https://github.com/thanreiz/Celerity">Code ↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/thanreiz/side-quest-reminder">
+        <img src="https://opengraph.githubassets.com/readme/thanreiz/side-quest-reminder" width="100%" alt="Side Quest Reminder" />
+      </a>
+      <br><b><a href="https://github.com/thanreiz/side-quest-reminder">Side Quest Reminder</a></b>
+      <br><sub>Voice-driven productivity suite — aggregates Notion + Google Calendar and delivers hands-free briefings to Telegram via Siri &amp; Shortcuts. Node.js + GitHub Actions.</sub>
+      <br><sub>🤖 Personal Project · Automation</sub>
+      <br><sub><a href="https://github.com/thanreiz/side-quest-reminder">Code ↗</a></sub>
+    </td>
+    <td align="center" width="50%">
       <a href="https://github.com/thanreiz/wais-inno">
-        <img src="https://opengraph.githubassets.com/main/thanreiz/wais-inno" width="100%" alt="WAIS" />
+        <img src="https://opengraph.githubassets.com/readme/thanreiz/wais-inno" width="100%" alt="WAIS" />
       </a>
       <br><b><a href="https://github.com/thanreiz/wais-inno">WAIS</a></b>
       <br><sub>Offline-first learning platform — Kotlin + Jetpack Compose, Gemini AI tutor, peer-to-peer QR data sync, zero backend.</sub>
       <br><sub>🏆 Grand Champion — Innolympics 2026</sub>
       <br><sub><a href="https://github.com/thanreiz/wais-inno">Code ↗</a></sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/thanreiz/Agri.ph-Final-">
-        <img src="https://opengraph.githubassets.com/main/thanreiz/Agri.ph-Final-" width="100%" alt="AGRI.PH" />
-      </a>
-      <br><b><a href="https://github.com/thanreiz/Agri.ph-Final-">AGRI.PH</a></b>
-      <br><sub>Offline-first agri advisory; dual-layer on-device/cloud AI; feature-mapped from 25+ academic & gov papers.</sub>
-      <br><sub>🌾 Lead Developer & Researcher</sub>
-      <br><sub><a href="https://github.com/thanreiz/Agri.ph-Final-">Code ↗</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/thanreiz/stellar-ph-hackathon">
-        <img src="https://opengraph.githubassets.com/main/thanreiz/stellar-ph-hackathon" width="100%" alt="SariSync Ledger" />
-      </a>
-      <br><b><a href="https://github.com/thanreiz/stellar-ph-hackathon">SariSync Ledger</a></b>
-      <br><sub>Mobile-first ledger for micro-retailers — Expo / React Native; Rust-Soroban "Tiwala Score" on Stellar mainnet; offline sync.</sub>
-      <br><sub>⛓️ Build on Stellar PH 2026</sub>
-      <br><sub><a href="https://github.com/thanreiz/stellar-ph-hackathon">Code ↗</a></sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/thanreiz/side-quest-reminder">
-        <img src="https://opengraph.githubassets.com/main/thanreiz/side-quest-reminder" width="100%" alt="Side Quest Reminder" />
-      </a>
-      <br><b><a href="https://github.com/thanreiz/side-quest-reminder">Side Quest Reminder</a></b>
-      <br><sub>Voice-driven productivity suite — aggregates Notion + Google Calendar, delivers hands-free briefings to Telegram via Siri & Shortcuts. Node.js + GitHub Actions.</sub>
-      <br><sub>🤖 Personal Project · Automation</sub>
-      <br><sub><a href="https://github.com/thanreiz/side-quest-reminder">Code ↗</a></sub>
     </td>
   </tr>
 </table>
@@ -115,7 +116,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=Grand+Champion+-+GDGoC+PLM+Innolympics+2026;Omni+Special+Awardee+-+Innolympics+2026;Grand+Champion+-+FEU+Tech+ACM+TechSprint+2026" alt="hackathon wins" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=Grand+Champion+-+GDGoC+PLM+Innolympics+2026;Grand+Champion+-+FEU+Tech+ACM+TechSprint+2026;2nd+Place+APAC+-+Stellar+APAC+Hackathon;Omni+Special+Awardee+-+Innolympics+2026" alt="hackathon wins" />
 
 </div>
 
@@ -128,7 +129,8 @@
 |-----------|-------|---------|------|-------|
 | 🏆 **Grand Champion** | GDGoC PLM — Innolympics 2026 | **WAIS** | Full-Stack Dev & Researcher | Kotlin, Jetpack Compose, Gemini AI, P2P QR sync |
 | 🎖️ **Omni Special Awardee** | Innolympics 2026 | **WAIS** | Full-Stack Dev & Researcher | Kotlin, Jetpack Compose, Gemini AI |
-| 🏆 **Grand Champion** | FEU Tech ACM — TechSprint 2026 | **CrossCampus** | Builder | Web, JavaScript |
+| 🏆 **Grand Champion** | FEU Tech ACM — TechSprint 2026 | **Gabay** | Full-Stack Dev | React 19 PWA, Three.js, Gemini Nano, IndexedDB |
+| 🥈 **2nd Place APAC · Top 10** | Stellar APAC Hackathon | **Celerity** | Full-Stack Dev | Rust (Soroban), React, Vite, Ed25519 oracle |
 | ⛓️ **Participant** | Build on Stellar PH 2026 | **SariSync Ledger** | Lead Developer | Expo, React Native, Rust (Soroban), Stellar |
 | 🌾 **Participant** | Hackathon 2026 | **AGRI.PH** | Lead Dev & Researcher | Kotlin, on-device + cloud AI |
 
@@ -150,17 +152,21 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thanreiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=3B82F6" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanreiz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" alt="top langs" />
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanreiz&theme=tokyonight" alt="profile summary" />
+
+<br/>
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanreiz&theme=tokyonight" alt="repos per language" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanreiz&theme=tokyonight" alt="most commit language" />
+
+<br/>
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thanreiz&theme=tokyonight" alt="stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thanreiz&theme=tokyonight&utcOffset=8" alt="productive time" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=thanreiz&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=3B82F6&currStreakLabel=22D3EE" alt="streak" />
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanreiz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=3B82F6&point=ffffff&area=true&area_color=22D3EE" alt="activity graph" />
 
 <br/>
 
