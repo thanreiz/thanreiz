@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:3B82F6&height=200&section=header&text=Ethan%20Dreiz%20Baltazar&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CTO%20%40%20StartDOST%20%7C%20Notion%20Campus%20Leader&descAlignY=58&descSize=18" alt="Ethan Dreiz Baltazar — Full-Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:3B82F6&height=200&section=header&text=Ethan%20Dreiz%20Baltazar&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CTO%20%40%20START-DOST%20%7C%20Notion%20Campus%20Leader&descAlignY=58&descSize=18" alt="Ethan Dreiz Baltazar — Full-Stack Developer" />
 
 <p>
   <a href="https://www.linkedin.com/in/thanreiz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -19,7 +19,7 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
 
 ## Leadership
 
-- **Chief Technology Officer — StartDOST.**
+- **Chief Technology Officer — START-DOST.**
 - **Notion Campus Leader.**
 - **Innovation Fellow (Strategy & Management) — Eskwelabs.** Builds SOPs, playbooks, and AI-enabled workflows.
 - **Community roles:** External Relations Lead, GDGoC PLM · Program Committee, AWS User Group e:Novators PH · Student Leader, Data Engineering Pilipinas.
