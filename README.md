@@ -30,12 +30,12 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
 
 ## Technical Skills
 
-**Languages:** Java, Python, Kotlin, TypeScript, JavaScript, Rust, C
-**Frameworks:** React, React Native, Next.js, Jetpack Compose, Node.js, Tailwind CSS
-**Data and infrastructure:** MySQL, Docker, GitHub Actions, Vercel
-**Testing:** Vitest, Playwright
-**Design:** Figma (UI/UX design and prototyping)
-**Automation:** REST API integration and workflow automation (Notion, Google Calendar, Telegram, Messenger)
+- **Languages:** Java, Python, Kotlin, TypeScript, JavaScript, Rust, C
+- **Frameworks:** React, React Native, Next.js, Jetpack Compose, Node.js, Tailwind CSS
+- **Data and infrastructure:** MySQL, Docker, GitHub Actions, Vercel
+- **Testing:** Vitest, Playwright
+- **Design:** Figma (UI/UX design and prototyping)
+- **Automation:** REST API integration and workflow automation (Notion, Google Calendar, Telegram, Messenger)
 
 <div align="center">
 
@@ -59,6 +59,7 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
+      <a href="https://molarandco.vercel.app"><img src="assets/projects/molar-and-co.jpg" width="100%" alt="Molar &amp; Co. staff schedule dashboard" /></a>
       <h3><a href="https://github.com/thanreiz/dentalclinic">Molar &amp; Co.</a></h3>
       <b>Lead Developer and sole UI/UX Designer</b>
       <p>Web-based appointment scheduling and attendance tracking system for a small dental clinic. Prevents double-bookings across web, Messenger, phone, and walk-in channels. Verified by 492 unit/integration tests and 33 end-to-end tests. Documented in a co-authored research paper at PLM (ResearchGate publication planned).</p>
@@ -66,6 +67,7 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
       <a href="https://molarandco.vercel.app">Live demo</a> · <a href="https://github.com/thanreiz/dentalclinic">Source code</a>
     </td>
     <td valign="top" width="50%">
+      <a href="https://stellar-celerity.me"><img src="assets/projects/celerity.jpg" width="100%" alt="Celerity funder console" /></a>
       <h3><a href="https://github.com/thanreiz/Celerity">Celerity</a></h3>
       <b>Full-Stack Developer · 2nd Place, Stellar APAC Hackathon</b>
       <p>Programmable disaster-relief disbursement on the Stellar network. Rust/Soroban escrow contract, 2-of-3 Ed25519 weather oracle, automatic payouts to registered farmers, and SEP-31 anchor cash-out to PHP.</p>
@@ -75,6 +77,7 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
   </tr>
   <tr>
     <td valign="top" width="50%">
+      <a href="https://gabay-sage.vercel.app"><img src="assets/projects/gabay.jpg" width="100%" alt="Gabay offline AI math companion" /></a>
       <h3><a href="https://github.com/thanreiz/CrossCampus">Gabay</a></h3>
       <b>Full-Stack Developer · Grand Champion, FEU Tech ACM TechSprint 2026</b>
       <p>Offline-first AI math companion for Filipino Grade 4–6 learners. React 19 PWA with a Three.js 3D classroom, a Gemini and on-device Gemini Nano tutor, and 155 DepEd MATATAG competencies cached in IndexedDB.</p>
@@ -82,6 +85,7 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
       <a href="https://gabay-sage.vercel.app">Live demo</a> · <a href="https://github.com/thanreiz/CrossCampus">Source code</a>
     </td>
     <td valign="top" width="50%">
+      <a href="https://github.com/thanreiz/side-quest-reminder"><img src="assets/projects/side-quest-reminder.jpg" width="100%" alt="Side Quest Reminder repository card" /></a>
       <h3><a href="https://github.com/thanreiz/side-quest-reminder">Side Quest Reminder</a></h3>
       <b>Personal project · API automation</b>
       <p>Voice-activated productivity engine that combines Notion tasks and Google Calendar events into focused Telegram briefings, triggered through Siri Shortcuts and run on scheduled GitHub Actions.</p>
