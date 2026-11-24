@@ -95,6 +95,11 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
   </tr>
 </table>
 
+## More Projects
+
+- **[PLManilaProf](https://plmprof.vercel.app)** — Anonymous, ad-free professor-rating directory for PLM students, with separate teaching and grading scores, content reporting, and a faculty right of reply. Independent student project, not affiliated with PLM. *TypeScript.* [Live site](https://plmprof.vercel.app)
+- **[START: Collections](https://github.com/dost-start/finance-igp)** — Official merchandise shop of START-DOST with GCash checkout, receipt verification (Tesseract.js OCR), and an admin back office for the finance team. *Next.js, Supabase (Postgres), Drizzle ORM, Vitest, Playwright.* [Live site](https://start-shop-six.vercel.app) · [Source code](https://github.com/dost-start/finance-igp)
+
 ## Hackathon Achievements
 
 | Result | Event | Project | Role | Stack |
@@ -114,6 +119,9 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
 | Build on Stellar Philippines 2026 | [SariSync Ledger](https://github.com/thanreiz/SariSync-Ledger) | Lead Developer | Expo, React Native, Rust (Soroban) |
 | Bountiful Harvest Hackathon (ACSS UPLB) | [Agri.PH](https://github.com/thanreiz/Agri.ph) | Lead Developer and Researcher | Kotlin, Jetpack Compose |
 | Musicathon 2026 | [Myusika](https://github.com/thanreiz/musicathon) | Developer | Next.js, TypeScript |
+| PayPal and AI Hackathon | [Celerity Relief](https://github.com/thanreiz/celerity-paypal) ([live](https://celerity-relief.vercel.app)) | Full-Stack Developer | Node.js, Express, React, PayPal APIs, AI agents |
+| Velo × Noir Agentic Payment Hackathon | [Sailo](https://github.com/pdyntech/sailo) ([live](https://sailo.pdyntech.com)) | Developer (team of 3) | TypeScript, Stellar |
+| Build Over Nights 2026 (Kiro × Amazon Quick), Climate Change track | [AIDE-M](https://github.com/DavidBatoDev/mangrove) | Researcher | Next.js, MapLibre, FastAPI, PostGIS, Sentinel-2 data |
 
 </details>
 
