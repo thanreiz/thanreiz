@@ -80,7 +80,7 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
     <td valign="top" width="50%">
       <a href="https://stellar-celerity.me"><img src="assets/projects/celerity.jpg" width="100%" alt="Celerity funder console" /></a>
       <h3><a href="https://github.com/thanreiz/Celerity">Celerity</a></h3>
-      <b>Blockchain and Full-Stack Developer · 2nd Place (Philippines), Stellar APAC Hackathon 2026</b>
+      <b>Blockchain and Full-Stack Developer · 2nd Place, Stellar APAC Hackathon 2026</b>
       <p>Programmable disaster-relief disbursement on the Stellar network. Rust/Soroban escrow contract, 2-of-3 Ed25519 weather oracle, automatic payouts to registered farmers, and SEP-31 anchor cash-out to PHP. Live on testnet with 46/46 contract tests passing and a verified on-chain settlement cost of about ₱0.125.</p>
       <sub><b>Stack:</b> Rust (Soroban), React, Vite, Stellar</sub><br/>
       <a href="https://stellar-celerity.me">Live demo</a> · <a href="https://github.com/thanreiz/Celerity">Source code</a>
@@ -118,7 +118,7 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
 | **Grand Champion** | GDGoC PLM Innolympics 2026 | [WAIS](https://github.com/thanreiz/wais-inno) | Full-Stack Developer and Researcher | Kotlin, Jetpack Compose, Gemini API |
 | **Omni Special Award** | GDGoC PLM Innolympics 2026 | [WAIS](https://github.com/thanreiz/wais-inno) | Full-Stack Developer and Researcher | Kotlin, Jetpack Compose, Gemini API |
 | **Grand Champion** | FEU Tech ACM TechSprint 2026 | [Gabay](https://github.com/thanreiz/CrossCampus) | Full-Stack Developer and Project Manager | React, Three.js, Gemini Nano |
-| **2nd Place (Philippines)** · represented the Philippines in the international round | Stellar APAC Hackathon 2026 | [Celerity](https://github.com/thanreiz/Celerity) | Blockchain and Full-Stack Developer | Rust (Soroban), React, Vite |
+| **2nd Place, APAC · Top 10 Finalist** | Stellar APAC Hackathon 2026 | [Celerity](https://github.com/thanreiz/Celerity) | Blockchain and Full-Stack Developer | Rust (Soroban), React, Vite |
 | **3rd Place (2nd Runner-Up)** | Build Over Nights 2026 (Kiro × Amazon Quick), Climate Change track | [AIDE-M](https://github.com/DavidBatoDev/mangrove) | Researcher | Next.js, MapLibre, FastAPI, PostGIS, Sentinel-2 data |
 | **Audience Choice Award (₱10,000)** | Build Over Nights 2026 (Kiro × Amazon Quick) | [AIDE-M](https://github.com/DavidBatoDev/mangrove) | Researcher | Next.js, MapLibre, FastAPI, PostGIS, Sentinel-2 data |
 | **Top 5 Finalist** (face-to-face pitching pending) | Velo × Noir Agentic Payment Hackathon | [Sailo](https://github.com/pdyntech/sailo) ([live](https://sailo.pdyntech.com)) | Developer (team of 3) | TypeScript, Stellar |
