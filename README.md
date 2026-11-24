@@ -108,6 +108,9 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
 | **Omni Special Award** | GDGoC PLM Innolympics 2026 | [WAIS](https://github.com/thanreiz/wais-inno) | Full-Stack Developer and Researcher | Kotlin, Jetpack Compose, Gemini API |
 | **Grand Champion** | FEU Tech ACM TechSprint 2026 | [Gabay](https://github.com/thanreiz/CrossCampus) | Full-Stack Developer | React, Three.js, Gemini Nano |
 | **2nd Place, APAC · Top 10 Finalist** | Stellar APAC Hackathon | [Celerity](https://github.com/thanreiz/Celerity) | Full-Stack Developer | Rust (Soroban), React, Vite |
+| **2nd Runner-Up** | Build Over Nights 2026 (Kiro × Amazon Quick), Climate Change track | [AIDE-M](https://github.com/DavidBatoDev/mangrove) | Researcher | Next.js, MapLibre, FastAPI, PostGIS, Sentinel-2 data |
+| **Audience Choice Award (₱10,000)** | Build Over Nights 2026 (Kiro × Amazon Quick) | [AIDE-M](https://github.com/DavidBatoDev/mangrove) | Researcher | Next.js, MapLibre, FastAPI, PostGIS, Sentinel-2 data |
+| **Top 5 Finalist** (face-to-face pitching pending) | Velo × Noir Agentic Payment Hackathon | [Sailo](https://github.com/pdyntech/sailo) ([live](https://sailo.pdyntech.com)) | Developer (team of 3) | TypeScript, Stellar |
 
 <details>
 <summary><b>Other hackathon builds</b></summary>
@@ -120,8 +123,6 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
 | Bountiful Harvest Hackathon (ACSS UPLB) | [Agri.PH](https://github.com/thanreiz/Agri.ph) | Lead Developer and Researcher | Kotlin, Jetpack Compose |
 | Musicathon 2026 | [Myusika](https://github.com/thanreiz/musicathon) | Developer | Next.js, TypeScript |
 | PayPal and AI Hackathon | [Celerity Relief](https://github.com/thanreiz/celerity-paypal) ([live](https://celerity-relief.vercel.app)) | Full-Stack Developer | Node.js, Express, React, PayPal APIs, AI agents |
-| Velo × Noir Agentic Payment Hackathon | [Sailo](https://github.com/pdyntech/sailo) ([live](https://sailo.pdyntech.com)) | Developer (team of 3) | TypeScript, Stellar |
-| Build Over Nights 2026 (Kiro × Amazon Quick), Climate Change track | [AIDE-M](https://github.com/DavidBatoDev/mangrove) | Researcher | Next.js, MapLibre, FastAPI, PostGIS, Sentinel-2 data |
 
 </details>
 
