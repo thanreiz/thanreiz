@@ -111,7 +111,7 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
       <b>UI/UX Designer and Motion Designer · Personal project (Nov 2026)</b>
       <p>Redesign of Luma's event app for iPad: 13 screens across attendee and host flows in light and dark mode, built on a documented foundations-and-components design system in Figma. Paired with a 44-second launch-style motion ad (1080p, 60 fps) rendered frame by frame from live HTML UI with Playwright and ffmpeg, with beat-synced cuts, kinetic typography, and synthesized sound effects. Unofficial concept, not affiliated with Luma.</p>
       <sub><b>Tools:</b> Figma, HTML/CSS, Playwright, ffmpeg, Python (NumPy)</sub><br/>
-      <a href="https://www.figma.com/design/XdGah09Awb7dSLExqWJxK8/Luma-for-iPad-%E2%80%94-Concept?node-id=11-83">Figma file</a> · Motion ad: <i>link pending</i>
+      <a href="https://www.figma.com/design/XdGah09Awb7dSLExqWJxK8/Luma-for-iPad-%E2%80%94-Concept?node-id=11-83">Figma file</a> · <a href="https://www.facebook.com/share/p/1519owfS5St/">Watch the motion ad</a>
     </td>
   </tr>
 </table>
