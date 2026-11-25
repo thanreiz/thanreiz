@@ -104,6 +104,16 @@ Full-stack developer and BS Computer Science student at **Pamantasan ng Lungsod 
       <a href="https://github.com/thanreiz/side-quest-reminder/actions">Live workflow runs</a> · <a href="https://github.com/thanreiz/side-quest-reminder">Source code</a>
     </td>
   </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <a href="https://www.figma.com/design/XdGah09Awb7dSLExqWJxK8/Luma-for-iPad-%E2%80%94-Concept?node-id=11-83"><img src="assets/projects/luma-ipad.jpg" width="100%" alt="Luma for iPad concept redesign, discover screen" /></a>
+      <h3><a href="https://www.figma.com/design/XdGah09Awb7dSLExqWJxK8/Luma-for-iPad-%E2%80%94-Concept?node-id=11-83">Luma for iPad — Concept Redesign</a></h3>
+      <b>UI/UX Designer and Motion Designer · Personal project (Nov 2026)</b>
+      <p>Redesign of Luma's event app for iPad: 13 screens across attendee and host flows in light and dark mode, built on a documented foundations-and-components design system in Figma. Paired with a 44-second launch-style motion ad (1080p, 60 fps) rendered frame by frame from live HTML UI with Playwright and ffmpeg, with beat-synced cuts, kinetic typography, and synthesized sound effects. Unofficial concept, not affiliated with Luma.</p>
+      <sub><b>Tools:</b> Figma, HTML/CSS, Playwright, ffmpeg, Python (NumPy)</sub><br/>
+      <a href="https://www.figma.com/design/XdGah09Awb7dSLExqWJxK8/Luma-for-iPad-%E2%80%94-Concept?node-id=11-83">Figma file</a> · Motion ad: <i>link pending</i>
+    </td>
+  </tr>
 </table>
 
 ## More Projects
